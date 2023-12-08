@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Reza Vafaei 👋
+# Hi there, I'm Mohammad Reza Vafaei 
 
 I'm a Business Intelligence developer, Financial Analyst, BI Consultant, and Power BI coach. I'm passionate about transforming data into actionable insights and helping businesses make informed decisions through data visualization and analysis.
 
